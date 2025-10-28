@@ -1,9 +1,7 @@
 <h1 align="center">Hi,I'm Gurdit Singh</h1>
-<h3 align="center">I'm passionate frontend developer</h3>
+<h3 align="center">I'm passionate Frontend Developer</h3>
+How to reach me **gurditsingh1804@gmail.com**
 
-- 📫 How to reach me **gurditsingh1804@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
